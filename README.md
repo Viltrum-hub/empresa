@@ -1,19 +1,23 @@
-# UMBRAL — Arquitectura
+# KAIRO — Viajes con sentido
 
-Sitio estático para un estudio de arquitectura, inspirado en una composición cinematográfica con navegación circular de proyectos. UMBRAL es un nombre provisional. Las imágenes y proyectos son propuestas conceptuales, no obras construidas ni clientes reales.
+Sitio estático de una empresa de viajes, con una portada que reproduce la composición de la referencia: templo japonés al atardecer, título a la izquierda, barra de búsqueda, botón coral y cinco miniaturas circulares. KAIRO es un nombre provisional.
 
 ## Uso
 
-Abre `index.html` o sirve esta carpeta con `python -m http.server 8000`. No requiere instalación ni compilación. Compatible con alojamiento estático, GitHub Pages y Vercel.
+Abre `index.html` o sirve esta carpeta con `python -m http.server 8000`. No requiere instalación ni compilación. Compatible con GitHub Pages y Vercel.
 
-## Páginas
+## Páginas y funciones
 
-Inicio, proyectos, servicios, estudio y contacto. El carrusel admite controles, teclado, gestos táctiles y pausa. Los proyectos tienen filtros y fichas accesibles. Respeta la preferencia de movimiento reducido.
+Inicio, destinos, experiencias, nosotros y contacto. Carrusel de cinco destinos con controles, teclado, gestos y pausa; búsqueda desde la cabecera, filtros, fichas de destinos y consultas descargables. Las direcciones antiguas redirigen a las páginas equivalentes.
 
-## Contacto
+## Contenido
 
-El formulario valida los campos, guarda un borrador en el navegador y prepara una solicitud descargable. No envía mensajes ni afirma haberlos enviado. Antes de habilitar envíos reales, debe configurarse un destinatario y un servicio de formularios.
+Imágenes ilustrativas generadas para el sitio. Las rutas son ideas de inspiración, no paquetes con disponibilidad confirmada. No se inventan testimonios, precios ni reservas.
+
+## Consultas
+
+El formulario valida campos y guarda un borrador local; permite descargar una consulta. No envía correos ni confirma reservas. Configura los datos de contacto y un servicio de envío antes de habilitar consultas directas.
 
 ## Personalización
 
-El contenido compartido está en `assets/app.js`; estilos en `assets/styles.css`. Sustituye nombre provisional, datos del estudio y proyectos conceptuales cuando estén definidos.
+Marca y contenido en `assets/app.js`, estilos en `assets/styles.css`. Las imágenes locales están en `assets/`. Sustituye el nombre provisional y añade información real de la agencia cuando esté definida.
