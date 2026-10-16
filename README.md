@@ -21,3 +21,7 @@ El formulario valida campos y guarda un borrador local; permite descargar una co
 ## Personalización
 
 Marca y contenido en `assets/app.js`, estilos en `assets/styles.css`. Las imágenes locales están en `assets/`. Sustituye el nombre provisional y añade información real de la agencia cuando esté definida.
+
+## Imágenes interiores
+
+Las escenas del carrusel se usan exclusivamente en la portada y sus miniaturas. El contenido interior utiliza siete imágenes independientes: `destino-*.webp`, `esencia-viajes.webp` y `consulta-viaje.webp`. Las versiones `-720.webp` sirven pantallas pequeñas mediante `srcset`; los originales conservan su resolución nativa.
