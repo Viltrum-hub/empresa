@@ -8,7 +8,7 @@ Abre `index.html` o sirve esta carpeta con `python -m http.server 8000`. No requ
 
 ## Páginas y funciones
 
-Inicio, destinos, experiencias, nosotros y contacto. Carrusel de cinco destinos con controles, teclado, gestos y pausa; búsqueda desde la cabecera, filtros, fichas de destinos y consultas descargables. Las direcciones antiguas redirigen a las páginas equivalentes.
+Inicio, destinos, experiencias, servicios, nosotros y contacto. Carrusel de cinco destinos con controles, teclado, gestos y pausa; búsqueda desde la cabecera, filtros, fichas de destinos y consultas descargables. Las direcciones antiguas de proyectos y estudio redirigen a las páginas equivalentes. La presentación ocupa todo el ancho de la pantalla y conserva el selector circular de destinos.
 
 ## Contenido
 
